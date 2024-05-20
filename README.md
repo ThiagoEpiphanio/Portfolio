@@ -4,7 +4,7 @@ Carga horária: 53h
 
 Instrutores Guilherme Lima e Rafaella Ballerine.
 
-Conteúdo abordado na formação, utilizando vídeo aulas, exercícios, artigos e podcasts.
+Conteúdo abordado na formação, utilizando vídeo aulas, exercícios, artigos e podcasts:
 
 - Aprenda a fazer o download e instalar um ambiente para o desenvolvimento de páginas HTML e CSS
 - Saiba como estudar uma nova tecnologia com base na documentação
