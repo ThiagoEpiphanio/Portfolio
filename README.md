@@ -1,6 +1,7 @@
 Projeto desenvolvido durante a formação "A partir do zero: HTML e CSS para projetos web" da plataforma Alura.
 
 Carga horária: 53h
+
 Instrutores Guilherme Lima e Rafaella Ballerine.
 
 Conteúdo abordado na formação, utilizando vídeo aulas, exercícios, artigos e podcasts.
